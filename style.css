@@ -1,0 +1,24 @@
+body {
+    background: #574e61;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#container {
+    text-align: center;
+    margin-top: 20%;
+    /* border: 2px black solid; */
+    /* background-color: rgb(234, 0, 255); */
+}
+
+#red {
+    color: red;
+}
+
+#green {
+    color: rgb(49, 226, 49);
+}
+
+button,
+input {
+    font-size: larger;
+}
